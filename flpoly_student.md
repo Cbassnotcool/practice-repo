@@ -1,27 +1,27 @@
-## First Name Last Name
+## Sebastian Santiago
 
-### Term Year 
+### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 2
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Intro to programming using python
 
-- Course 4
+- Cloud Infrastructure
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Food
 
-- Thing 2
+- Sports
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Games as shown in this website <https://www.rocketleague.com/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/04
