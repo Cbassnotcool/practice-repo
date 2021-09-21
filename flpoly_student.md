@@ -4,13 +4,12 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Calculus 2
-
-- Intro to Data Science
-
-- Intro to programming using python
-
-- Cloud Infrastructure
+|Prefix |Number  |Name                                       |Credits |
+|:------|:-------|:------------------                        |:------ |
+|**COP**|**2073**|_Introduction to Data Science_             |3       |
+|**MAC**|**2312**|_Calculus 2_                               |4       |
+|**COP**|**2034**|_Introduction to Programming Using Python_ |3       |
+|**CTS**|**2375**|_Cloud Infrastructure_                     |3       |
 
 **Hobbies:**
 
@@ -24,4 +23,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/09/04
+> Last modified: 2021/09/21
